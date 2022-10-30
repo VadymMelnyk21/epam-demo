@@ -7,9 +7,5 @@ next text
 
 secomd text
 --------------------
-
-new task
-
-and new branch
-
-feature branch
+conflict solving
+--------------------
