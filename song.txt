@@ -8,8 +8,4 @@ next text
 secomd text
 --------------------
 
-new task
-
-and new branch
-
-feature branch
+March as one
