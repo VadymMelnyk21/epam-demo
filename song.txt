@@ -2,8 +2,3 @@ firs files
 first change
 
 second task gui
-
-next text
-
-secomd text
---------------------
